@@ -1,0 +1,17 @@
+{
+  "name": "test-node",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "uncledb <434967007@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
